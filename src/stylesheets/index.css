@@ -1,0 +1,11 @@
+:root {
+  margin: 3em;
+}
+html {
+  background: linear-gradient(#1b4de4, #25bef7) no-repeat center fixed;
+  background-size: cover;
+}
+body {
+  border-radius: 16px;
+  background-color: #e3fef8;
+}
